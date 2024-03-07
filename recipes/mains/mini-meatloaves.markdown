@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: Mini Meatloaves
 ---
+## Ingredients
 -     1       egg
 -   3/4 cup   milk
 -     1 cup   shredded Cheddar cheese
@@ -12,6 +13,7 @@ title: Mini Meatloaves
 -   1/4 cup   packed brown sugar
 - 1 1/2 tsps  prepared mustard
 
+## Directions
 1. Preheat oven to 350 degrees F (175 degrees C).
 2. In a large bowl, combine the egg, milk, cheese, oats and salt.
 3. Add the ground beef, mixing well.
@@ -21,5 +23,8 @@ title: Mini Meatloaves
 7. Stir thoroughly and spread over each loaf.
 8. Bake, uncovered, at 350 degrees F (175 degrees C) for 45 minutes.
 
-Note: Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.
-Source: https://www.allrecipes.com/recipe/15715/mini-meatloaves/
+## Notes
+Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.
+
+## Source
+[allrecipes](https://www.allrecipes.com/recipe/15715/mini-meatloaves/)
