@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Mini Meatloaves
+title: Mini Meatloaves
 ---
 -     1       egg
 -   3/4 cup   milk
