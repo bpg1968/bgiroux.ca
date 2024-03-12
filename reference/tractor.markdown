@@ -7,10 +7,12 @@ title: Tractor Information
 ### Tires
 
 #### Front Tires
-Inflate to:
+Inflate to
+: __ psi (___ kPa)
 
 #### Rear Tires
-Inflate to:
+Inflate to
+: __ psi (___ kPa)
 
 ## 120R Loader
 
@@ -21,10 +23,16 @@ Inflate to:
 ### Auger Shear Pins
 
 #### Hexagonal Head Screw
-John Deere Part Number: 19H1914
-Head size: 11 mm or 7/16"
+John Deere Part Number
+: 19H1914
+
+Head size
+: 11 mm or 7/16"
 
 #### Lock Nut
-John Deere Part Number: M40333
-Head size: 11 mm or 7/16"
+John Deere Part Number
+: M40333
+
+Head size
+: 11 mm or 7/16"
 
