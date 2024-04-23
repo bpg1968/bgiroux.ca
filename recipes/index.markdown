@@ -3,6 +3,6 @@ layout: default
 title: Recipes
 ---
 - [Main Course Recipes](mains/)
-  - [Mini Meatloaves](mains/mini-meatloaves)
+  - [Chicken Fingers](mains/chicken-fingers)
   - [Mini Meatloaves](mains/mini-meatloaves)
   - [Tuscan Sausage Linguine](mains/tuscan-sausage-linguine)
