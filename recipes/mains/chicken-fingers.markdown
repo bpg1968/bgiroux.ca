@@ -10,11 +10,11 @@ title: Chicken Fingers
 - 5 tbsp mayonnaise
 
 ## Directions
-Preheat air fryer to 400° F.
-In a shallow bowl, combine panko, cheese and seasoning.
-Smother chicken pieces with mayo.
-Press chicken into panko mixture.
-Cook the chicken 5 to 6 minutes on each side, until the chicken is cooked through and crispy and golden on the outside. 
+1. Preheat air fryer to 400° F.
+2. In a shallow bowl, combine panko, cheese and seasoning.
+3. Smother chicken pieces with mayo.
+4. Press chicken into panko mixture.
+5. Cook the chicken 5 to 6 minutes on each side, until the chicken is cooked through and crispy and golden on the outside. 
 
 ## Notes
 
