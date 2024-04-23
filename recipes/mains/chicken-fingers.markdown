@@ -1,18 +1,8 @@
 ---
 layout: page
-title: Mini Meatloaves
+title: Chicken Fingers
 ---
 ## Ingredients
--     1       egg
--   3/4 cup   milk
--     1 cup   shredded Cheddar cheese
--   1/2 cup   quick cooking oats
--     1 tsp   salt
--     1 pound ground beef
--   2/3 cup   ketchup
--   1/4 cup   packed brown sugar
-- 1 1/2 tsps  prepared mustard
-
 - 1 c panko bread crumbs
 - 3 tbsp Parmesan cheese
 - 2 tbsp Italian seasoning
