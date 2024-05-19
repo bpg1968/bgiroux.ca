@@ -9,3 +9,4 @@ title: Recipes
 - [Side Dishes](sides/)
   - [Sweet Potato Fries](sides/sweet-potato-fries)
 - [Breakfast](breakfast/)
+  - [Pancakes](breakfast/pancakes)
