@@ -15,7 +15,7 @@ title: Pancakes
 ## Directions
 1. In large bowl, whisk flour, sugar, baking powder, and salt.
 2. Add milk, butter and, egg; stir until flour is moistened.
-3. Heat a griddle over medium heat.
+3. Heat a griddle over medium heat (3.5/10).
 4. Brush lightly with oil.
 5. Add 1/4 cup batter to griddle, spreading to 3 1/2 inches.
 6. Cook 2 to 3 minutes or until bubbly.
