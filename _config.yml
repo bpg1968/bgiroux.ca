@@ -1,0 +1,23 @@
+collections:
+  essays:
+    output: true
+    permalink: /reflections/:title/
+  stories:
+    output: true
+    permalink: /stories/:title/
+
+# For blog posts (standard _posts/), define your desired permalink
+permalink: /blog/:year/:month/:day/:title/
+
+
+title: Brian P. Giroux
+author:
+  name: Brian P. Giroux
+  email: bpg1968@gmail.com
+description: >- 
+  Personal projects, reflections, and woodworking creations.
+social_links:
+  github: bpg1968
+  # twitter: yourhandle
+  # linkedin: yourprofile
+
