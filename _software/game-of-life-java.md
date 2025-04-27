@@ -36,3 +36,6 @@ The Game of Life operates based on a few simple rules:
 
 Although the rules are simple, the patterns that emerge over time can be fascinatingly complex and often surprising.
 
+---
+
+[View the GitHub Repository →](https://github.com/bpg1968/Game-of-Life---Java)
