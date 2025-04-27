@@ -5,6 +5,10 @@ collections:
   stories:
     output: true
     permalink: /stories/:title/
+  software:
+    output: true
+    permalink: /projects/software/:title/
+
 
 # For blog posts (standard _posts/), define your desired permalink
 permalink: /blog/:year/:month/:day/:title/
