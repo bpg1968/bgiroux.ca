@@ -3,8 +3,8 @@ title: "Domain Name Expiry Script (Shell)"
 description: "A simple but flexible shell script to check domain expiration dates, enhanced with colour-coded output and command-line options."
 date: 2025-04-27
 categories: [software]
+github: https://github.com/bpg1968/Domain-Name-Expiry
 layout: project
-image: /assets/images/domain-name-expiry-screenshot.png   # (Optional, if you have or want a screenshot)
 ---
 
 # Domain Name Expiry Script (Shell)
@@ -32,8 +32,4 @@ This project is shared in the hopes that someone else might find it useful too.
 The script uses standard Linux utilities like `whois`, `grep`, `tput`, and `date` to fetch and format expiration information in a human-readable way. Colour formatting makes it easy to quickly spot domains that are about to expire.
 
 It's lightweight, fast, and designed for real-world daily use.
-
----
-
-[View the GitHub Repository →](https://github.com/bpg1968/Domain-Name-Expiry)
 

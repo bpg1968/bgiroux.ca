@@ -3,6 +3,7 @@ title: "Damm Algorithm CLI Tool (C)"
 description: "A lightweight C program to compute and validate check digits using the Damm algorithm, based on H. Michael Damm's 2004 dissertation."
 date: 2025-04-27
 categories: [software]
+github: https://github.com/bpg1968/damm---C
 layout: project
 ---
 
@@ -54,7 +55,4 @@ $ damm -c 384253
 $ damm --check 384254
 Error: Invalid check digit.
 ```
----
-
-[View the GitHub Repository →](https://github.com/bpg1968/damm---C)
 

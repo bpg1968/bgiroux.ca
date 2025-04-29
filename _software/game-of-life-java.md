@@ -4,6 +4,7 @@ description: "A Java Swing-based simulation of Conway’s Game of Life, built wi
 date: 2025-04-27
 categories: [software]
 tags: [java, swing, mvc, game-of-life, cellular-automata]
+github: https://github.com/bpg1968/Game-of-Life---Java
 layout: project
 ---
 
@@ -37,6 +38,3 @@ The Game of Life operates based on a few simple rules:
 
 Although the rules are simple, the patterns that emerge over time can be fascinatingly complex and often surprising.
 
----
-
-[View the GitHub Repository →](https://github.com/bpg1968/Game-of-Life---Java)
