@@ -2,8 +2,9 @@
 title: "Conway's Game of Life (Java)"
 description: "A Java Swing-based simulation of Conway’s Game of Life, built with a clean MVC structure — and a little help from AI."
 date: 2025-04-27
-categories: [java]
+categories: [software]
 tags: [java, swing, mvc, game-of-life, cellular-automata]
+layout: project
 ---
 
 # Conway's Game of Life (Java)
