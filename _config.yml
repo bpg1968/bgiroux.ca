@@ -8,6 +8,9 @@ collections:
   software:
     output: true
     permalink: /projects/software/:title/
+  woodworking:
+    output: true
+    permalink: /projects/woodworking/:title/
 
 
 # For blog posts (standard _posts/), define your desired permalink
