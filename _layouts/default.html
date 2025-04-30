@@ -34,9 +34,9 @@
           Projects
         </a>
         <ul class="dropdown-menu" aria-labelledby="projectsDropdown">
-          <li><a class="dropdown-item {% if page.url == '/projects/software/' %}active{% endif %}"
+          <li><a class="dropdown-item {% if page.url contains '/projects/software/' %}active{% endif %}"
                  href="/projects/software/">Software</a></li>
-          <li><a class="dropdown-item {% if page.url == '/projects/woodworking/' %}active{% endif %}"
+          <li><a class="dropdown-item {% if page.url contains '/projects/woodworking/' %}active{% endif %}"
                  href="/projects/woodworking/">Woodworking</a></li>
         </ul>
       </li>
