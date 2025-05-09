@@ -1,6 +1,6 @@
 ---
 title: "Cedar Adirondack Chairs"
-date: 2025-05-07
+date: 2021-04-27
 categories: [woodworking]
 summary: "A pair of classic cedar Adirondack chairs built using Veritas plans and stained to match the colour of my log house."
 layout: project
