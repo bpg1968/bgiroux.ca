@@ -11,6 +11,10 @@ collections:
   woodworking:
     output: true
     permalink: /projects/woodworking/:title/
+  reference:
+    output: true
+    permalink: /reference/:title/
+
 
 
 # For blog posts (standard _posts/), define your desired permalink
