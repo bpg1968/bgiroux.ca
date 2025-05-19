@@ -4,10 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Brian — a creator, builder, and lifelong learner based in Bathurst, New Brunswick.
+<div class="clearfix">
+  <img src="{{ '/assets/images/Brian.jpg' | relative_url }}"
+       class="img-fluid float-md-end ms-md-4 mb-3 rounded shadow"
+       alt="Brian P. Giroux"
+       style="max-width: 250px;">
 
-I'm passionate about blending creativity with precision, whether I'm crafting software projects, exploring open-source development, or working in my workshop.  
-My background brings together technology, craftsmanship, and community service: I hold a Bachelor’s degree in Computer Science from [Laurentian University](https://laurentian.ca/), and I run [**Giroux Woodcraft**](https://girouxwoodcraft.ca/), where I design and create handmade wood products alongside my wife, Diane.
+  <div class="float-md-start me-md-4 mb-3"
+       style="max-width: 45ch;
+              margin-left: 8rem;
+              font-size: 1.5rem;">
+    <p>
+      I'm Brian, a creator, builder, and lifelong learner based in Bathurst, New Brunswick.
+    </p>
+    <p>
+      I'm passionate about blending creativity with precision, whether I'm working on software or woodworking projects.
+    </p>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+My background brings together technology and craftsmanship: I hold a Bachelor’s degree in Computer Science from [Laurentian University](https://laurentian.ca/), and I run [**Giroux Woodcraft**](https://girouxwoodcraft.ca/), where I design and create handmade wood products.
 
 Outside of work, I enjoy contributing to meaningful projects, volunteering as a community driver, and finding ways to use technology to make a positive impact. I believe in working with care, sharing what I learn, and creating things that are both useful and well-crafted.
 
