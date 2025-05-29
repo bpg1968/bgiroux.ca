@@ -4,6 +4,7 @@ title: "Decline by Design"
 date: 2025-05-29
 excerpt: "Decline doesn’t always come from defeat. Sometimes it comes from alienating your own team."
 post_image: /assets/images/blog/2025-05-29-decline-by-design.jpg
+thumbnail: /assets/images/blog/2025-05-29-decline-by-design-thumb.jpg
 ---
 
 Imagine living in a small, isolated neighbourhood.
