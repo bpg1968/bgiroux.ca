@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="blog-post my-5" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="mb-4">
+    {% if page.post_image %}
+      <img src="{{ page.post_image }}" alt="{{ page.title }}" class="img-fluid rounded shadow-sm mb-4" itemprop="image">
+    {% endif %}
+    <h1 class="display-5" itemprop="headline">{{ page.title }}</h1>
+    <p class="text-muted">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%A %d %B %Y" }}
+      </time>
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
+
