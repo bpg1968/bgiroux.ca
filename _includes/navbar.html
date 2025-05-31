@@ -1,0 +1,44 @@
+<nav class="navbar navbar-expand-md navbar-light">
+  <div class="container-fluid">
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="/">Home</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/about/' %}active{% endif %}" href="/about/">About</a>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle {% if page.url contains '/projects/' %}active{% endif %}" href="/projects/" id="projectsDropdown"
+            role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Projects
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="projectsDropdown">
+            <li><a class="dropdown-item {% if page.url contains '/projects/software/' %}active{% endif %}" href="/projects/software/">Software</a></li>
+            <li><a class="dropdown-item {% if page.url contains '/projects/woodworking/' %}active{% endif %}" href="/projects/woodworking/">Woodworking</a></li>
+          </ul>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link {% if page.url contains '/reference/' %}active{% endif %}" href="/reference/">Reference</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/contact/' %}active{% endif %}" href="/contact/">Contact</a>
+        </li>
+
+      </ul>
+    </div>
+
+  </div>
+</nav>
+

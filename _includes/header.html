@@ -1,47 +1,9 @@
 <header class="bg-light py-3 mb-4 border-bottom">
   <div class="container d-flex flex-column flex-md-row align-items-center justify-content-between">
-    <a href="/" class="d-flex align-items-center mb-2 mb-md-0 text-dark text-decoration-none">
-      <span class="fs-4">Brian P. Giroux</span>
+    <a href="{{ '/' | relative_url }}" class="d-flex align-items-center mb-2 mb-md-0 text-dark text-decoration-none">
+      <span class="fs-4">{{ site.title }}</span>
     </a>
-
-    <ul class="nav nav-pills">
-      <li class="nav-item">
-        <a href="/" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
-      </li>
-
-      <li class="nav-item">
-        <a href="/about/" class="nav-link {% if page.url == '/about/' %}active{% endif %}">About</a>
-      </li>
-
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle {% if page.url contains '/projects/' %}active{% endif %}"
-           href="/projects/"
-           id="projectsDropdown"
-           role="button"
-           data-bs-toggle="dropdown"
-           aria-expanded="false">
-          Projects
-        </a>
-        <ul class="dropdown-menu" aria-labelledby="projectsDropdown">
-          <li><a class="dropdown-item {% if page.url contains '/projects/software/' %}active{% endif %}"
-                 href="/projects/software/">Software</a></li>
-          <li><a class="dropdown-item {% if page.url contains '/projects/woodworking/' %}active{% endif %}"
-                 href="/projects/woodworking/">Woodworking</a></li>
-        </ul>
-      </li>
-
-      <li class="nav-item">
-        <a href="/reference/" class="nav-link {% if page.url contains '/reference/' %}active{% endif %}">Reference</a>
-      </li>
-
-      <li class="nav-item">
-        <a href="/contact/" class="nav-link {% if page.url == '/contact/' %}active{% endif %}">Contact</a>
-      </li>
-      <li class="nav-item">
-        <a href="/blog/" class="nav-link {% if page.url contains '/blog/' %}active{% endif %}">Blog</a>
-      </li>
-    </ul>
-
+    {% include navbar.html %}
   </div>
 </header>
 
