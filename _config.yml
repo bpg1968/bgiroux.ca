@@ -1,10 +1,10 @@
 collections:
   essays:
     output: true
-    permalink: /reflections/:title/
+    permalink: /writings/reflections/:title/
   stories:
     output: true
-    permalink: /stories/:title/
+    permalink: /writings/stories/:title/
   software:
     output: true
     permalink: /projects/software/:title/
@@ -15,20 +15,44 @@ collections:
     output: true
     permalink: /reference/:title/
 
-
-
 # For blog posts (standard _posts/), define your desired permalink
 permalink: /blog/:year/:month/:day/:title/
 
-
+# Site settings
 title: Brian P. Giroux
 author:
   name: Brian P. Giroux
   email: bpg1968@gmail.com
 description: >- 
   Personal projects, reflections, and woodworking creations.
+url: "https://bgiroux.ca"
 social_links:
   github: bpg1968
   # twitter: yourhandle
   # linkedin: yourprofile
+
+# Build settings
+markdown: kramdown
+
+future: false
+
+# Plugins (supported by GitHub Pages)
+#plugins:
+#  - jekyll-feed      # Enables RSS feed generation
+#  - jekyll-seo-tag   # Adds SEO + social meta tags
+
+# No theme (rely on custom layout and Bootstrap only)
+theme: null
+
+# Clean URLs
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
 
