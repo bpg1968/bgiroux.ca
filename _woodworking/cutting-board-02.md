@@ -1,14 +1,12 @@
 ---
 title: "Walnut Cutting Boards"
-layout: project
 date: 2021-07-10
-categories: [woodworking]
-summary: "A pair of small Black Walnut cutting boards, each with a Maple accent strip and a unique edge treatment."
+description: "A pair of small Black Walnut cutting boards, each with a Maple accent strip and a unique edge treatment."
+image: /assets/images/woodworking/Cutting_Board_02.jpg
+thumbnail: /assets/images/woodworking/Cutting_Board_02-thumb.jpg
+layout: woodworking
+language: en-CA
 ---
-
-# Walnut Cutting Boards
-
-## Project Overview
 
 This was a **simple and satisfying project**: a pair of smaller cutting boards, each about **8 by 12 inches**, made from **Black Walnut** with a single contrasting strip of **Maple**.
 

@@ -1,14 +1,12 @@
 ---
 title: "Cedar Adirondack Chairs"
 date: 2021-04-27
-categories: [woodworking]
-summary: "A pair of classic cedar Adirondack chairs built using Veritas plans and stained to match the colour of my log house."
-layout: project
+description: "A pair of classic cedar Adirondack chairs built using Veritas plans and stained to match the colour of my log house."
+image: /assets/images/woodworking/Adirondack_01.jpg
+thumbnail: /assets/images/woodworking/Adirondack_01-thumb.jpg
+layout: woodworking
+language: en-CA
 ---
-
-# Cedar Adirondack Chairs
-
-## Project Overview
 
 This project was a chance to combine classic outdoor comfort with timeless design. I built a pair of **Adirondack chairs** using [Veritas plans](https://www.leevalley.com/en-ca/shop/tools/plans/32755-adirondack-plus-chair-and-footstool-plan), which feature gentle curves and thoughtful joinery that elevate them above your typical backyard chair.
 
