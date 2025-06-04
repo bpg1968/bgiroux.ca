@@ -2,21 +2,43 @@
 layout: default
 ---
 
-<article class="project my-5">
-  <div class="container">
+<div class="container">
+  <header class="mb-4">
+    <h1 class="mb-1">{{ page.title }}</h1>
 
-    <section class="content">
-      {{ content }}
-    </section>
-
-    {% if page.github %}
-    <div class="text-center">
-      <a href="{{ page.github }}" class="btn btn-primary" rel="noopener noreferrer">
-        View on GitHub
-      </a>
-    </div>
+    {% if page.prog_lang %}
+      <p class="mb-1">
+      <span class="badge bg-secondary me-1">{{ page.prog_lang }}</span>
+      </p>
     {% endif %}
 
-  </div>
-</article>
+    <p class="text-muted mb-2">
+      {{ page.date | date: "%A %e %B %Y" }}
+    </p>
 
+    {% if page.category %}
+    <p class="mb-1">
+      <strong>Category:</strong> {{ page.category }}
+    </p>
+    {% endif %}
+
+    {% if page.labels %}
+    <p class="mb-0 small text-muted">
+      <strong>Labels:</strong>
+      {% for label in page.labels %}
+        <span class="badge bg-secondary me-1">{{ label }}</span>
+      {% endfor %}
+    </p>
+    {% endif %}
+
+    {% if page.image %}
+
+      <img
+        src="{{ page.image }}"
+        alt="{{ page.title }}"
+        class="img-fluid rounded mb-4 shadow-sm w-100">
+    {% endif %}
+  </header>
+
+  {{ content }}
+</div>

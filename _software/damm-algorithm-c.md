@@ -1,13 +1,12 @@
 ---
-title: "Damm Algorithm CLI Tool (C)"
-description: "A lightweight C program to compute and validate check digits using the Damm algorithm, based on H. Michael Damm's 2004 dissertation."
+title: "Damm Algorithm CLI Tool"
 date: 2025-04-27
-categories: [software]
+description: "A lightweight C program to compute and validate check digits using the Damm algorithm, based on H. Michael Damm's 2004 dissertation."
+prog_lang: C
+layout:	software
+language: en-CA
 github: https://github.com/bpg1968/damm---C
-layout: project
 ---
-
-# Damm Algorithm CLI Tool (C)
 
 I've been fascinated by check digit algorithms ever since I wrote an ISBN check digit validator for a high school programming project back in the 1980s. There are many types of check digit systems, but the Damm algorithm has always stood out for its elegant structure and strong error detection properties.
 

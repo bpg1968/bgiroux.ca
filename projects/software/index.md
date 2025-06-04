@@ -2,6 +2,7 @@
 title: "Software Projects"
 description: "Explore my collection of personal software projects — small utilities, learning experiments, and practical tools built for fun and functionality."
 layout: page
+language: en-CA
 permalink: /projects/software/
 ---
 
@@ -14,20 +15,5 @@ Here you will find a selection of my software work, ranging from system utilitie
 
 ---
 
-<div class="row row-cols-1 row-cols-md-2 g-4">
-
-{% assign sorted_projects = site.software | sort: "date" | reverse %}
-{% for project in sorted_projects %}
-  <div class="col">
-    <div class="card h-100">
-      <div class="card-body">
-        <h5 class="card-title">{{ project.title }}</h5>
-        <p class="card-text">{{ project.description }}</p>
-        <a href="{{ project.url }}" class="btn btn-primary">View Project</a>
-      </div>
-    </div>
-  </div>
-{% endfor %}
-
-</div>
+{% include project-cards.html project_collection=site.software %}
 

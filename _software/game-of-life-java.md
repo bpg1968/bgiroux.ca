@@ -1,14 +1,13 @@
 ---
-title: "Conway's Game of Life (Java)"
-description: "A Java Swing-based simulation of Conway’s Game of Life, built with a clean MVC structure — and a little help from AI."
+title: "Conway's Game of Life"
 date: 2025-04-27
-categories: [software]
-tags: [java, swing, mvc, game-of-life, cellular-automata]
+description: "A Java Swing-based simulation of Conway’s Game of Life, built with a clean MVC structure — and a little help from AI."
+prog_lang: Java
+labels: [java, swing, mvc, game-of-life, cellular-automata]
+layout:	software
+language: en-CA
 github: https://github.com/bpg1968/Game-of-Life---Java
-layout: project
 ---
-
-# Conway's Game of Life (Java)
 
 Like many Computer Science students, I was once assigned a **Conway’s Game of Life** project during my studies. It’s a common assignment in programming courses because it combines simple rules with surprisingly complex and emergent behaviour — an excellent exercise in modelling logic, state management, and algorithmic thinking.
 

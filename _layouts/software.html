@@ -1,0 +1,21 @@
+---
+layout: project
+---
+
+<article class="software-project my-5">
+
+    <section class="content">
+      {{ content }}
+    </section>
+
+    {% if page.github %}
+    <div class="text-center">
+      <a href="{{ page.github }}" class="btn btn-primary" rel="noopener noreferrer">
+        View on GitHub
+      </a>
+    </div>
+    {% endif %}
+
+  </div>
+</article>
+

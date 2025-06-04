@@ -1,13 +1,12 @@
 ---
-title: "Domain Name Expiry Script (Shell)"
-description: "A simple but flexible shell script to check domain expiration dates, enhanced with colour-coded output and command-line options."
+title: "Domain Name Expiry Script"
 date: 2025-04-27
-categories: [software]
+description: "A simple but flexible shell script to check domain expiration dates, enhanced with colour-coded output and command-line options."
+prog_lang: bash
+layout:	software
+language: en-CA
 github: https://github.com/bpg1968/Domain-Name-Expiry
-layout: project
 ---
-
-# Domain Name Expiry Script (Shell)
 
 What started as an idea for a **macro-like script** — just to automate a few `whois` and `grep` commands — turned into something much more useful.
 
