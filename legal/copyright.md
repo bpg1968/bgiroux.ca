@@ -8,7 +8,7 @@ permalink: /legal/copyright/
 
 ## Copyright Notice
 
-© {{ site.time | date: '%Y' }} Brian P. Giroux. All rights reserved.
+© {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.
 
 This website, including all text, images, graphics, layout, design, and other content,
 is the intellectual property of Brian P. Giroux unless otherwise noted.

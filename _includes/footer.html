@@ -1,6 +1,36 @@
-<footer class="bg-light text-center text-muted py-4 mt-5 border-top">
+<footer class="bg-light border-top py-4 mt-5">
   <div class="container">
-    <p class="mb-0"><a href="/legal/copyright/">&copy; {{ site.time | date: "%Y" }} Brian P. Giroux</a>. All rights reserved.</p>
+
+    <!-- Upper row: Two columns of links -->
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
+
+      <div class="col mb-3">
+        <h6 class="text-uppercase fw-bold small">Site</h6>
+        <ul class="list-unstyled">
+          <li><a href="/about/" class="text-decoration-none text-muted">About</a></li>
+          <li><a href="/contact/" class="text-decoration-none text-muted">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="col mb-3">
+        <h6 class="text-uppercase fw-bold small">Legal</h6>
+        <ul class="list-unstyled">
+          <li><a href="/legal/copyright/" class="text-decoration-none text-muted">Copyright Notice</a></li>
+          <li><a href="/legal/disclaimer/" class="text-decoration-none text-muted">Disclaimer</a></li>
+        </ul>
+      </div>
+
+      <!-- Optional: add more columns later -->
+
+    </div>
+
+    <!-- Bottom row: centered copyright -->
+    <div class="text-center mt-4 small text-muted">
+      <a href="/legal/copyright/" class="text-decoration-none text-muted">
+        &copy; {{ site.time | date: "%Y" }} {{ site.author.name }}
+      </a>
+    </div>
+
   </div>
 </footer>
 
