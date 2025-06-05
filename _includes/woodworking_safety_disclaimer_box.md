@@ -5,6 +5,8 @@
     It is simply a description of how I made this project.
     The reader is responsible for learning how to use their equipment safely and should
     never attempt any technique they are not comfortable with.
+    For more information, please read the <a href="/legal/disclaimer/">full disclaimer</a>.
   </p>
   <p class="mt-3"><strong>Be safe.</strong></p>
 </div>
+
