@@ -2,6 +2,8 @@
 title: "3-Piece Votive Candle Holders"
 date: 2021-05-22
 description: "Elegant votive candle holders made from a piece of birch firewood using table saw cove-cutting techniques."
+category: decor
+labels: [ votive holder, birch, candle holder, cove cutting, decorative, small project]
 image: /assets/images/woodworking/Votive_Holder_01.jpg
 thumbnail: /assets/images/woodworking/Votive_Holder_01-thumb.jpg
 layout: woodworking
