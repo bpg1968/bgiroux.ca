@@ -2,6 +2,8 @@
 title: "Custom Sink-Fitting Cutting Board"
 date: 2021-04-03
 description: "A custom hard maple cutting board designed to fit perfectly into a sink opening, extending kitchen counter space."
+category: Kitchen
+labels: [ cutting board, sink insert, custom fit, hard maple, kitchen, space-saving, utility ]
 image: /assets/images/woodworking/Cutting_Board_01.jpg
 thumbnail: /assets/images/woodworking/Cutting_Board_01-thumb.jpg
 layout: woodworking
