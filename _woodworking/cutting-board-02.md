@@ -2,6 +2,8 @@
 title: "Walnut Cutting Boards"
 date: 2021-07-10
 description: "A pair of small Black Walnut cutting boards, each with a Maple accent strip and a unique edge treatment."
+category: Kitchen
+labels: [ cutting board, walnut, maple, kitchen, accent stripe, hardwood ]
 image: /assets/images/woodworking/Cutting_Board_02.jpg
 thumbnail: /assets/images/woodworking/Cutting_Board_02-thumb.jpg
 layout: woodworking
