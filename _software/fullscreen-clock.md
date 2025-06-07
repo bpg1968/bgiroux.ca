@@ -5,6 +5,8 @@ description: A fullscreen digital clock for Linux, written in C using SDL2, with
 prog_lang: C
 summary: A fullscreen digital clock for Linux with date display and optional mirror mode — built in C with SDL2 for a clean, minimalist experience.
 labels: [clock, sdl2, linux, c, fullscreen]
+image: /assets/images/software/fullscreen_clock_c.png
+thumbnail: /assets/images/software/fullscreen_clock_c-thumb.jpg
 layout: software
 language: en-CA
 github: https://github.com/bpg1968/Fullscreen-Clock
