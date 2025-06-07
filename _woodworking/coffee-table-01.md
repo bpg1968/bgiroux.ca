@@ -2,11 +2,12 @@
 title: "Construction Lumber Coffee Table"
 date: 2021-06-12
 description: "A living room coffee table built from 2×6 construction lumber, inspired by a design on Ana White’s DIY channel."
+category: Furniture
+labels: [coffee table, construction lumber, 2x6, living room, furniture, pocket joinery, stain, English Chestnut, softwood, diy]
 image: /assets/images/woodworking/Coffee_Table_01.jpg
 thumbnail: /assets/images/woodworking/Coffee_Table_01-thumb.jpg
 layout: woodworking
 language: en-CA
-
 ---
 
 This table started out as an **experiment**
