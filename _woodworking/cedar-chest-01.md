@@ -3,6 +3,8 @@ title: Cedar Chest
 date: 2021-07-27
 description: A Father's Day cedar chest built from a U-Build plan, delivered unfinished and finished by the recipient.
 summary: A handcrafted cedar chest built as a Father's Day gift using a U-Build plan from Lee Valley. Delivered unfinished so the recipient could apply the finish himself.
+category: Storage
+labels: [ cedar, chest, storage, furniture, u-build plan ]
 image: /assets/images/woodworking/cedar_chest_01.jpg
 thumbnail: /assets/images/woodworking/cedar_chest_01-thumb.jpg
 layout: woodworking
