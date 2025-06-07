@@ -2,6 +2,8 @@
 title: "Cedar Adirondack Chairs"
 date: 2021-04-27
 description: "A pair of classic cedar Adirondack chairs built using Veritas plans and stained to match the colour of my log house."
+category: Outdoor Furniture
+labels: [ outdoor furniture, cedar, deck, seating, veritas plan, exterior project, wood stain, classic design]
 image: /assets/images/woodworking/Adirondack_01.jpg
 thumbnail: /assets/images/woodworking/Adirondack_01-thumb.jpg
 layout: woodworking
