@@ -11,6 +11,9 @@ collections:
   woodworking:
     output: true
     permalink: /projects/woodworking/:title/
+  laser:
+    output: true
+    permalink: /projects/laser/:title/
   reference:
     output: true
     permalink: /reference/:title/
