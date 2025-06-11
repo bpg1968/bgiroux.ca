@@ -8,5 +8,12 @@ layout: project
       {{ content }}
     </section>
 
+    {% if page.buy %}
+    <div class="text-center">
+      <a href="{{ page.buy }}" class="btn btn-primary" rel="noopener noreferrer">
+        Buy at GirouxWoodcraft.ca
+      </a>
+    </div>
+    {% endif %}
 </article>
 
