@@ -18,9 +18,16 @@ permalink: /blog/
         <h2 class="h5 mb-1">
           <a href="{{ post.url }}" class="text-decoration-none">{{ post.title }}</a>
         </h2>
-
         {% if post.subtitle %}
           <h3 class="h6 text-muted mb-2">{{ post.subtitle }}</h3>
+        {% endif %}
+
+        {% if post.date %}
+          <p class="text-muted">
+            <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+              {{ post.date | date: "%A %-d %B %Y" }}
+            </time>
+          </p>
         {% endif %}
 
         {% if post.excerpt %}
